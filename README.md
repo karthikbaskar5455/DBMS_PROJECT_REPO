@@ -56,8 +56,18 @@ streamlit run login.py --showSidebarNavigation False
 ```
 
 ## OUTPUT 
-![image](https://github.com/user-attachments/assets/1a57cb46-a424-4080-8a10-d9103d8d76b0)
-![image](https://github.com/user-attachments/assets/a8f24acf-8b45-4d8f-9e9e-5ad8cd78746f)
+
+## sign up page
+![Screenshot from 2024-10-20 18-38-49](https://github.com/user-attachments/assets/3589ae32-86af-43e5-943b-e1b07f3d1127)
+
+## login page
+![Screenshot from 2024-10-20 18-41-43](https://github.com/user-attachments/assets/d79dfd19-9ed2-47fc-b87d-4a3ca4a2232f)
+
+## aws help chatbot
+![image](https://github.com/user-attachments/assets/08359e13-5a96-43cc-96dc-e8adea4730f2)
+
+![image](https://github.com/user-attachments/assets/b2121ca8-b3f4-4208-9b2a-bd8e86ced8f4)
+
 
 
 
