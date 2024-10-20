@@ -27,7 +27,7 @@ This project is an AWS-based chatbot that provides help services using the AWS B
 
 ## PROJECT STRUCTURE
 
-![image](https://github.com/user-attachments/assets/52dc15df-7cf6-49a9-9f29-053b18ec3535)
+![Screenshot from 2024-10-20 12-40-50](https://github.com/user-attachments/assets/cad82e1b-6e16-47e1-b481-fba9aac43b3e)
 
 
 ## Running the Application
