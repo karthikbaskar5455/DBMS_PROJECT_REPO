@@ -29,6 +29,8 @@ This project is an AWS-based chatbot that provides help services using the AWS B
 
 ![Screenshot from 2024-10-20 12-40-50](https://github.com/user-attachments/assets/cad82e1b-6e16-47e1-b481-fba9aac43b3e)
 
+**Warning Note:** The project uses streamlit switch_pages functionality for linking multiple pages(app,signup,login) and subsequent navigation in a rare case where the directory structure
+interferes with the navigation it is advised to move the Backend_Functionality and the DB_Backend_MySQL folders outside the project directory , without moving the pages folder 
 
 ## Running the Application
 
