@@ -64,8 +64,11 @@ login page
 ![Screenshot from 2024-10-20 18-41-43](https://github.com/user-attachments/assets/d79dfd19-9ed2-47fc-b87d-4a3ca4a2232f)
 
 aws help chatbot
+
+img1
 ![image](https://github.com/user-attachments/assets/08359e13-5a96-43cc-96dc-e8adea4730f2)
 
+img2
 ![image](https://github.com/user-attachments/assets/b2121ca8-b3f4-4208-9b2a-bd8e86ced8f4)
 
 
