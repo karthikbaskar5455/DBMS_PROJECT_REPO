@@ -58,7 +58,7 @@ the showSidebarNavigation being set to false will hide the pages connected using
 app can be accessed without authentication using credentials 
 
 ```bash
-streamlit run login.py --showSidebarNavigation False
+streamlit run login.py --client.showSidebarNavigation False 
 ```
 
 ## OUTPUT 
