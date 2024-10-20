@@ -32,22 +32,26 @@ This project is an AWS-based chatbot that provides help services using the AWS B
 
 ## Running the Application
 
-**Note:** This project has been tested to work with Python 3.11.3. It may or may not work with other subsequent or previous versions.
-
-To run the application, navigate to the project directory and execute the following commands:
+**Compatibility Note:** This project has been tested and confirmed to work with Python version 3.11.3. Users are strongly advised to utilize this specific version, as compatibility with other versions—either previous or subsequent—cannot be guaranteed.
+To run the application, execute the following commands:
 
 
 
 Cloning the repository
 
 ```bash
-git clone https://github.com/karthikbaskar5455/AWS-HELP-CHATBOT.git
+git clone https://github.com/karthikbaskar5455/DBMS_PROJECT_REPO.git
+```
+navigate to the project directory 
+```bash
+cd DBMS_PROJECT_REPO
 ```
 
 Installing all the necessary modules and packages 
 ```bash
 pip install -r requirements.txt
 ```
+
 the showSidebarNavigation being set to false will hide the pages connected using streamlit navigation which is essential for security else the underlying 
 app can be accessed without authentication using credentials 
 
